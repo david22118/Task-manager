@@ -1,11 +1,14 @@
 import React from 'react';
 import './App.css';
+import { observer } from 'mobx-react'
 
-function App() {
+const  App=(observer((props)=>{ 
+  
   return (
     <>
     </>
   );
-}
+}))
+
 
 export default App;
