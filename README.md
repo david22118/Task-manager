@@ -2,14 +2,14 @@
 Task management is mobile responsive-App.The app provide a  solution to Manage and organize your taskbar .
 
 ## Table Of Contents
-- [OneRoad](#TaskManager)
+- [TaskManager](#TaskManager)
   * [Running the project](#running-the-project)
   * [Screenshots](#Screenshots)
-    + [Landing page](#Home-page)
-    + [Create ride](#Add-Task)
-    + [Catch ride](#Task-Validation)
-    + [Analytics](#Success-Indication)
-    + [Carpools](#Task-Details)
+    + [Home page](#Home-page)
+    + [Add Task](#Add-Task)
+    + [Task Validation](#Task-Validation)
+    + [Success Indication](#Success-Indication)
+    + [Task Details](#Task-Details)
   * [Tech-Stack](#Techstack)
   * [TODO](#todo)
 
