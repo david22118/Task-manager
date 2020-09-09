@@ -64,7 +64,7 @@ A screen that displays all the details for a specific task, you can delete an it
 1. React,Mobx, Material-UI and Axios
 2. Express (Node.js),MongoDb.
 
-## TODO
+## To Do
 1. Create a registration page - a multi-user application and each user has his own task manager.
 2. Add fields to save additional data to tasks and details.
 3. Create mission importance and alerts accordingly
