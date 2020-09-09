@@ -11,7 +11,7 @@ Task management is mobile responsive-App.The app provide a  solution to Manage a
     + [Success Indication](#Success-Indication)
     + [Task Details](#Task-Details)
   * [Tech-Stack](#Techstack)
-  * [TODO](#todo)
+  * [To Do](#todo)
 
 ## Running the project
 
